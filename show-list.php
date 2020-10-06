@@ -12,7 +12,7 @@
                            <h4 class="card-title">Show Lists</h4>
                         </div>
                         <div class="iq-card-header-toolbar d-flex align-items-center">
-                           <a href="add-show.html" class="btn btn-primary">Add Show</a>
+                           <a href="add-show.php" class="btn btn-primary">Add Show</a>
                         </div>
                      </div>
                      <div class="iq-card-body">

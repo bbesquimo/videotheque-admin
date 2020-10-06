@@ -32,7 +32,7 @@
                      <div class="sign-in-page-data">
                         <div class="sign-in-from w-100 m-auto">
                            <h3 class="mb-3 text-center">Sign in</h3>
-                           <form class="mt-4" action="index.html">
+                           <form class="mt-4" action="index.php">
                               <div class="form-group">                                 
                                  <input type="email" class="form-control mb-0" id="exampleInputEmail2" placeholder="Enter email" autocomplete="off" required>
                               </div>
@@ -51,10 +51,10 @@
                      </div>
                      <div class="mt-3">
                         <div class="d-flex justify-content-center links">
-                           Don't have an account? <a href="sign-up.html" class="text-primary ml-2">Sign Up</a>
+                           Don't have an account? <a href="sign-up.php" class="text-primary ml-2">Sign Up</a>
                         </div>
                         <div class="d-flex justify-content-center links">
-                           <a href="pages-recoverpw.html" class="f-link">Forgot your password?</a>
+                           <a href="pages-recoverpw.php" class="f-link">Forgot your password?</a>
                         </div>
                      </div>
                   </div>

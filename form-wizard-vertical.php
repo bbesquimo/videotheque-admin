@@ -195,7 +195,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <a class="btn btn-primary action-button float-right" href="form-wizard-vertical.html" >Submit</a>
+                                 <a class="btn btn-primary action-button float-right" href="form-wizard-vertical.php" >Submit</a>
                                  <button type="button" name="previous" class="btn btn-dark previous action-button-previous float-right mr-3" value="Previous" >Previous</button>
                               </fieldset>
                            </form>

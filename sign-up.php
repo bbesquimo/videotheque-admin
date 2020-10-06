@@ -32,7 +32,7 @@
                      <div class="sign-in-page-data">
                         <div class="sign-in-from w-100 m-auto">
                            <h3 class="mb-3 text-center">Sign Up</h3>
-                           <form class="mt-4" action="index.html">
+                           <form class="mt-4" action="index.php">
                               <div class="form-group">                                 
                                  <input type="text" class="form-control mb-0" id="exampleInputText" placeholder="Enter Full Name" autocomplete="off" required>
                               </div>
@@ -54,7 +54,7 @@
                      </div>    
                      <div class="mt-3">
                         <div class="d-flex justify-content-center links">
-                           Already have an account? <a href="sign-in.html" class="text-primary ml-2">Sign In</a>
+                           Already have an account? <a href="sign-in.php" class="text-primary ml-2">Sign In</a>
                         </div>                        
                      </div>
                   </div>

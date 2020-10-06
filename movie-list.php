@@ -12,7 +12,7 @@
                            <h4 class="card-title">Movie Lists</h4>
                         </div>
                         <div class="iq-card-header-toolbar d-flex align-items-center">
-                           <a href="add-movie.html" class="btn btn-primary">Add movie</a>
+                           <a href="add-movie.php" class="btn btn-primary">Add movie</a>
                         </div>
                      </div>
                      <div class="iq-card-body">

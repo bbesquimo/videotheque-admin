@@ -1,5 +1,6 @@
 <?php
-   require_once("header.php");
+
+require_once("header.php");
 ?>
       <!-- Page Content  -->
       <div id="content-page" class="content-page">
@@ -13,7 +14,7 @@
                         </div>
                      </div>
                      <div class="iq-card-body">
-                        <form action="movie-view.html">
+                        <form action="movie-view.php">
                            <div class="row">
                               <div class="col-lg-7">
                                  <div class="row">

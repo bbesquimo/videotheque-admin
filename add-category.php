@@ -15,7 +15,7 @@
                      <div class="iq-card-body">
                         <div class="row">
                            <div class="col-lg-12">
-                              <form action="category-list.html">
+                              <form action="category-list.php">
                                  <div class="form-group">
                                     <input type="text" class="form-control" placeholder="Name">
                                  </div>

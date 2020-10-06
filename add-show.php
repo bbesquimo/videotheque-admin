@@ -13,7 +13,7 @@
                         </div>
                      </div>
                      <div class="iq-card-body">
-                        <form action="movie-view.html">
+                        <form action="movie-view.php">
                            <div class="row">
                               <div class="col-md-6 form-group">
                                  <input type="text" class="form-control" placeholder="Title">

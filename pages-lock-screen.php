@@ -38,7 +38,7 @@
                               <input type="email" class="form-control mb-0" id="exampleInputEmail2" placeholder="Password" autocomplete="off" required>
                             </div>
                             <div class="d-inline-block w-100">
-                               <a href="sign-in.html" class="btn btn-primary float-right">Log In</a>
+                               <a href="sign-in.php" class="btn btn-primary float-right">Log In</a>
                             </div>
                          </form>
                       </div>

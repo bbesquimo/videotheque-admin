@@ -30,7 +30,7 @@
                <div class="row justify-content-center">
                   <div class="col-sm-8 text-center">
                      <div class="iq-comingsoon-info">
-                        <a href="index.html">
+                        <a href="index.php">
                         <img src="../assets/images/logo-full.png" class="img-fluid w-25" alt="">
                         </a>
                         <h2 class="mt-4 mb-1">Stay tunned, we're launching very soon</h2>

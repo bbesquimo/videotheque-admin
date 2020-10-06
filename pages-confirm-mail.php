@@ -35,7 +35,7 @@
                          <h3 class="mt-3 mb-0">Success !</h3>
                          <p class="text-white">A email has been send to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5f26302a2d3a323e36331f3b30323e3631713c303271">[email&#160;protected]</a> Please check for an email from company and click on the included link to reset your password.</p>
                         <div class="d-inline-block w-100">
-                            <a href="index.html" class="btn btn-primary mt-3">Back to Home</a>
+                            <a href="index.php" class="btn btn-primary mt-3">Back to Home</a>
                         </div>
                       </div>
                      </div>
