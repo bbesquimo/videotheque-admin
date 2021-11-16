@@ -1,4 +1,5 @@
 <?php
+   header('Location: sign-in.php');
    require_once("header.php");
 ?>
       <!-- Page Content  -->
